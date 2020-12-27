@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Questioning our users</title>
+    <style>
+        body {
+            background-color: red;
+        }
+
+        li {
+            color: blue; 
+        }
+
+        h1 {
+            background-color: silver;
+            color:darkblue;
+        }
+    </style>
+  </head>
+  <body>
+      <nav>
+          <ul>
+              <li>Home</li>
+              <li>About</li>
+              <li>Contact</li>
+          </ul>
+      </nav>
+      <main>
+        <h1>Class 01 demo</h1>
+        <p style="background-color: yellow; color: purple;" >What is your name</p>
+        <p style="background-color: silver; color: maroon;">What is your favorite food</p>
+        <p style="background-color: salmon; color: lightpink;">What is your favorite programming language</p>
+        <p style="background-color: orange; color: blueviolet;">Do you like winter</p>
+      </main>
+      <footer>
+          <p>Built by tamim</p>
+      </footer>
+      <script>
+          var firstQuestion = prompt('What is your name? ');
+          alert("Your name is "+firstQuestion);
+          console.log(firstQuestion);
+
+          var secondQuestion =  prompt("What is your favorite food?");
+          alert("Your favorite food is "+secondQuestion);
+          console.log(secondQuestion);
+
+          var thirdQuestion =  prompt("What is your favorite programming language?");
+          alert("Your fav programming language is "+thirdQuestion);
+          console.log(thirdQuestion);
+
+          var forthQuestion =  prompt("Do you like winter?");
+          alert(forthQuestion);
+          console.log(forthQuestion);
+
+      </script>
+  </body>
+</html>
