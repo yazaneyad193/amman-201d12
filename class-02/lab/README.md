@@ -56,9 +56,9 @@ After completing all of the requirements listed above, you may optionally challe
 
 ## Resources
 
-Review and utulize these resouces when working with your lab.
+Review and utilize these resources when working with your lab.
 
-- Follow the instructions in the ["Setting Up a New Code 201 Project"](../project_setup){:target="_blank"} document for an overview of the content that is requied for your lab repo.
+- Follow the instructions in the ["Setting Up a New Code 201 Project"](../project_setup){:target="_blank"} document for an overview of the content that is required for your lab repo.
 
 ## Submission Instructions
 
