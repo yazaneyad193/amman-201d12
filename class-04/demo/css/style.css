@@ -1,0 +1,10 @@
+span {
+    background-color: chartreuse;
+}
+
+.display-inline-b{
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+}
+
